@@ -10,11 +10,10 @@ Here are some ideas to get you started:
 <p align="left">
 <h1>You can find me on</h1>
 
-<p align="left">
-📺 Youtube
-🐦 Twitter
-📷 <a href="https://www.linkedin.com/in/ahdrein/"> LinkedIn </a>
-⚛️ My site
+<p>📺 Youtube
+<p>🐦 Twitter
+<p>📷 <a href="https://www.linkedin.com/in/ahdrein/"> LinkedIn </a>
+<p>⚛️ My site
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ahdrein&show_icons=true" alt="ahdrein"/> 
