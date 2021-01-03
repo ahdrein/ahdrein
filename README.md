@@ -1,7 +1,5 @@
 <h1 align="center">Hi dear 👋, I'm Andrews Drein</h1>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on <a href="https://www.thomsonreuters.com.br/pt.html"> [Thomson Reuters] </a>
 - 🌱 I’m currently learning ...
 - 💻 Software Engineer
