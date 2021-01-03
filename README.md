@@ -4,14 +4,17 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Thomson Reuters] https://www.thomsonreuters.com.br/pt.html
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 Software Engineer
+- 🏡 Brazilian 🌎
 
+<p align="left">
+<h1>You can find me on</h1>
 
+<p align="left">
+📺 Youtube
+🐦 Twitter
+📷 Unsplash
+⚛️ My site
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
