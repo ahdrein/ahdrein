@@ -8,7 +8,7 @@
 <p align="left">
 <h1>You can find me on</h1>
 
-<p>📺 Youtube
+<p>📺 <a href="https://www.youtube.com/channel/UC4xi0d7C4bvN2Dzw_Ak1L4g?sub_confirmation=1"> Youtube </a>
 <p>🐦 Twitter
 <p>📷 <a href="https://www.linkedin.com/in/ahdrein/"> LinkedIn </a>
 <p>⚛️ My site
