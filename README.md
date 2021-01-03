@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Thomson Reuters] https://www.thomsonreuters.com.br/pt.html
+- 🔭 I’m currently working on <a href="https://www.thomsonreuters.com.br/pt.html"> [Thomson Reuters] </a>
 - 🌱 I’m currently learning ...
 - 💻 Software Engineer
 - 🏡 Brazilian 🌎
