@@ -32,8 +32,8 @@ Atualmente, foco em arquiteturas de integração complexas (especialmente no uni
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahdrein&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahdrein&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="180px"/>
 </p>
 
 ---
